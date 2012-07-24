@@ -31,7 +31,7 @@ as basic functionality for classification, learning, and other higher-level task
 are for example vision processing algorithms (such as optic flow calculations and basic
 image feature extraction). 
 
-* Links to this software will follow soon.
+- Links to this software will follow soon.
 
 ## Classification {#classification}
 
@@ -44,8 +44,9 @@ contrary to for example Hadoop or the Google Prediction API. However, what lacks
 is to provide a nice online interface to have these classifiers used by third-parties.
 
 Our current classifiers:
-* [iLVQ](https://github.com/mrquincle/ilvq)
-* [ARTMAP](https://github.com/mrquincle/artmap)
+
+- [iLVQ](https://github.com/mrquincle/ilvq)
+- [ARTMAP](https://github.com/mrquincle/artmap)
 
 ## Learning {#learning}
 
@@ -59,7 +60,8 @@ a large office building as efficiently as possible, or to have a group of UAVs
 quick as possible.
 
 Our current learning methods:
-* [Q-learning](https://github.com/mrquincle/actionperception)
+
+- [Q-learning](https://github.com/mrquincle/actionperception)
 
 With respect to learning it is important to note that our [classification](#classification) 
 methods can be used in an unsupervised learning setting.
@@ -74,7 +76,8 @@ process, it is of course possible to use our [learning](#learning) algorithms.
 Nets provides temporal classification algorithms and prediction algorithms. 
 
 Our current prediction algorithms:
-* [ESN](https://github.com/mrquincle/esn)
+
+- [ESN](https://github.com/mrquincle/esn)
 
 
 ## Open source {#opensource}
