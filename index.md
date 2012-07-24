@@ -24,7 +24,7 @@ Our algorithms can be divided into several categories:
   style="margin-top: 30px;" 
   title="Click for a larger view">](img/dobots.png)
 
-## Signal processing (#signalprocessing)
+## Signal processing {#signalprocessing}
 
 Nets contains many algorithms for signal processing and preprocessing which can be used
 as basic functionality for classification, learning, and other higher-level tasks. There
