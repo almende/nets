@@ -20,9 +20,11 @@ Our algorithms can be divided into several categories:
 - [Planning](#planning)
 - [Prediction](#prediction)
 
+<!--
 [<img src="img/dobots.png" 
   style="margin-top: 30px;" 
   title="Click for a larger view">](img/dobots.png)
+-->
 
 ## Signal processing {#signalprocessing}
 
