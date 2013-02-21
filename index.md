@@ -40,7 +40,9 @@ like [principle component analysis](http://en.wikipedia.org/wiki/Principal_compo
 [singular value decomposition](http://en.wikipedia.org/wiki/Singular_value_decomposition), and
 other pretty standard techniques.
 
-- Links to this software will follow soon.
+Our current signal processing software:
+
+- [ORB feature detector](https://github.com/mrquincle/aim_modules/KeypointModule) 
 
 ## Classification {#classification}
 
@@ -124,6 +126,10 @@ Our algorithms will entail [belief propagation](http://en.wikipedia.org/wiki/Bel
 [variational methods](http://en.wikipedia.org/wiki/Variational_Bayesian_methods) (a generalized
 version of [expectation-maximization](http://en.wikipedia.org/wiki/Expectation-maximization)) 
 and other algorithms of a similar taste.
+
+Our current reasoning algorithms:
+
+- [Belief Propagation](https://github.com/mrquincle/aim_modules/BeliefModule)
 
 ## Open source {#opensource}
 
