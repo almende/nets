@@ -42,7 +42,7 @@ other pretty standard techniques.
 
 Our current signal processing software:
 
-- [ORB feature detector](https://github.com/mrquincle/aim_modules/KeypointModule) 
+- [ORB feature descriptor](https://github.com/mrquincle/aim_modules/KeypointModule) 
 
 ## Classification {#classification}
 
