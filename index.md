@@ -91,6 +91,7 @@ included.
 
 Our current learning methods:
 
+- [Particle filter](https://github.com/mrquincle/particlefilter)
 - [Q-learning](https://github.com/mrquincle/actionperception)
 
 With respect to learning it is important to note that our [classification](#classification) 
